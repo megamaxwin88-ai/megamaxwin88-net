@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://megamaxwin88.net/sitemap.xml
+Sitemap: https://megamaxwin88-ai.github.io/megamaxwin88-net/sitemap.xml

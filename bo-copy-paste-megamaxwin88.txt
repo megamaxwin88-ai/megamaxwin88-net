@@ -1,0 +1,58 @@
+MEGAMAXWIN88.NET — COPY-PASTE BO (FULL + GOOGLE SIGNALS)
+=======================================================
+Hook: Depo Besar Untung Maxwin
+P0: megamaxwin88 gacor
+Domain: https://megamaxwin88.net/
+
+1) Personalize > Title
+Megamaxwin88 Gacor: Depo Besar Untung Maxwin
+
+2) Personalize > Brand
+MEGAMAXWIN88
+
+3) Web Setting > Meta Description
+Megamaxwin88 gacor: depo besar untung maxwin. Login & daftar resmi di megamaxwin88.net. Bonus member, cashback, CS 24 jam.
+
+4) Web Setting > Meta Keyword
+megamaxwin88, megamaxwin88 gacor, depo besar untung maxwin, megamaxwin88 login, megamaxwin88 daftar, megamaxwin88 maxwin, link megamaxwin88, megamaxwin88 depo besar, situs megamaxwin88
+
+5) Personalize > Announcement
+MEGAMAXWIN88 GACOR: DEPO BESAR UNTUNG MAXWIN! Login & daftar resmi hanya di megamaxwin88.net. Bonus new member, event scatter, cashback & rollingan aktif 24 jam.
+
+6) Personalize > HTML Footer
+Tempel: footer-seo-megamaxwin88.html
+footerOption = html
+Isi: H1 + H2 + FAQ + breadcrumb + internal links (Google-friendly)
+
+7) Web Setting > Meta Script
+Tempel: meta-schema-megamaxwin88.html
+Isi: GSC verification, robots, canonical, OG/Twitter, JSON-LD
+(WebSite, Organization, WebPage, BreadcrumbList, FAQPage, HowTo)
+
+8) Banner titles (brand + hook)
+- EVENT SCATTER MAHJONG WAYS MEGAMAXWIN88 GACOR
+- BONUS ROLLINGAN MINGGUAN MEGAMAXWIN88 MAXWIN
+- CASHBACK MINGGUAN MEGAMAXWIN88 DEPO BESAR
+- EVENT WAVES POSEIDON MEGAMAXWIN88 GACOR
+- SBO SPORTBOOK MEGAMAXWIN88
+- DAILY WINS MEGAMAXWIN88 MEGA GACOR
+- ZEUS STRIKE MEGAMAXWIN88 MAXWIN
+- PROMO 17 AGUSTUS MEGAMAXWIN88 DEPO BESAR
+- FESTIVAL BULAN PURNAMA MEGAMAXWIN88
+- ADVANTPLAY BONANZA MEGAMAXWIN88 MAXWIN
+- TURNAMEN SLOT MEGAMAXWIN88 GACOR
+- SUGAR CRUSH MEGAMAXWIN88 GACOR
+- GATES OF OLYMPUS MEGAMAXWIN88 MAXWIN
+
+9) Hosting / Cloudflare
+- robots-megamaxwin88.txt -> /robots.txt
+- sitemap-megamaxwin88.xml -> /sitemap.xml
+- Submit sitemap di GSC
+- Verifikasi meta google-site-verification
+
+CEK GOOGLE-READY
+- 1 H1 = title hook
+- FAQ terlihat di halaman (bukan schema saja)
+- canonical + robots index,follow di source
+- Rich Results Test: FAQ/HowTo/Breadcrumb tanpa error
+- GSC ownership verified

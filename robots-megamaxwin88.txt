@@ -1,0 +1,18 @@
+User-agent: *
+Allow: /
+
+# AI / search crawlers umum
+User-agent: Googlebot
+Allow: /
+
+User-agent: Googlebot-Image
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+Disallow: /account
+Disallow: /wallet
+Disallow: /api
+
+Sitemap: https://megamaxwin88.net/sitemap.xml
