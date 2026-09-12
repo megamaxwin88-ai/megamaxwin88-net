@@ -56,3 +56,8 @@ h2{margin:18px 0 10px;font-family:var(--display);font-size:1.15rem}
 
 .foot a{color:var(--gold2);font-weight:700;min-height:44px;display:inline-flex;align-items:center}
 .cta-official a{font-weight:800}
+
+.nav a.nav-official{background:rgba(240,193,75,.18);color:var(--gold2);border:1px solid var(--line)}
+.linkbar-official{position:fixed;left:50%;bottom:calc(var(--dock) - 4px);transform:translateX(-50%);width:100%;max-width:var(--phone);z-index:39;padding:0 12px 8px;pointer-events:none}
+.linkbar-official a{pointer-events:auto;display:flex;align-items:center;justify-content:center;min-height:36px;border-radius:10px;background:rgba(240,193,75,.95);color:#2a1200;font-size:12px;font-weight:800;text-align:center;padding:0 10px}
+.app{padding-bottom:calc(var(--dock) + 44px + env(safe-area-inset-bottom))}
