@@ -53,3 +53,6 @@ h2{margin:18px 0 10px;font-family:var(--display);font-size:1.15rem}
 .dock .in{border:1px solid rgba(255,247,240,.25);color:var(--ink)}
 .dock .go{background:linear-gradient(135deg,var(--gold),#d4a017);color:#2a1200}
 @media (prefers-reduced-motion:reduce){*{animation:none!important;transition:none!important}}
+
+.foot a{color:var(--gold2);font-weight:700;min-height:44px;display:inline-flex;align-items:center}
+.cta-official a{font-weight:800}
